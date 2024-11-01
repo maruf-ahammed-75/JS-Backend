@@ -1,0 +1,14 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "Backend larning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maruf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
